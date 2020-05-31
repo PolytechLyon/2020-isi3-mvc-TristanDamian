@@ -20,7 +20,7 @@ Il est inventé par [John Horton Conway](https://fr.wikipedia.org/wiki/John_Hort
 
 1. Expliquer le design pattern MVC à l'aide d'un schéma à insérer directement ici. 
 Utiliser un outils comme Dia pour le représenter. Je veux **votre** schéma, pas un de ceux qu'on peut trouver sur le net.
-![MVC](images/MVC.png)
+![MVC](MVC.png)
 2. Expliquer ce pattern à l'aide en complétant ce texte.
 
 Le pattern MVP, vise à découper le modèle , de la vue et du contrôleur afin de rendre le code plus modulaire.
@@ -49,7 +49,7 @@ L'usage d'une callback permet ici de notifier afin dire à la _View_ de se redes
 L'objet _Model_ n'a pas de lien avec la vue pourtant grâce à la callback il peut notifier la Vue.
 
 2. Insérer ici un UML montrant le pattern Observer-Observable liés aux objects de ce TP.
-![Observer](images/Observer.png)
+![Observer](Observer.png)
 ## Optionel
 
 > Si vous voulez apprendre d'autres choses
